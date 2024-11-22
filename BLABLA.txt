@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ENDOG GODOK
+=======
+ENDOG GODOK ENAk
+>>>>>>> kedua
